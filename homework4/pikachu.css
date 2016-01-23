@@ -1,77 +1,77 @@
-                                    .circle1 {
-                                        background-color: red;
-                                        padding: 50px;
-                                        margin-top: 0px;
-                                        margin-left: 200px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 200px;
-                                        height: 200px;
-                                        top: -40px
-                                    }
-                                    
-                                    h1.title {
-                                        color: yellow;
-                                    }
-                                    
-                                    .circle2 {
-                                        background-color: brown;
-                                        padding: 50px;
-                                        margin-top: 50px;
-                                        margin-left: 150px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 200px;
-                                        height: 200px;
-                                    }
-                                    
-                                    .circle3 {
-                                        color: brown;
-                                        background-color: #ffffff;
-                                        padding: 50px;
-                                        margin-top: -500px;
-                                        margin-left: 400px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 500px;
-                                        height: 500px;
-                                    }
-                                    
-                                    .circle4 {
-                                        background-color: #ffffff;
-                                        padding: 50px;
-                                        margin-top: -650px;
-                                        margin-left: 750px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 200px;
-                                        height: 200px;
-                                    }
-                                    
-                                    .circle5 {
-                                        background-color: brown;
-                                        padding: 50px;
-                                        margin-top: 50px;
-                                        margin-left: 1100px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 100px;
-                                        height: 100px;
-                                    }
-                                    
-                                    .circle6 {
-                                        background-color: red;
-                                        padding: 50px;
-                                        margin-top: 150px;
-                                        margin-left: 450px;
-                                        box-sizing: content box;
-                                        position: relative;
-                                        border-radius: 50%;
-                                        width: 100px;
-                                        height: 100px;
-                                    }
+ .circle1 {
+     background-color: red;
+     padding: 50px;
+     margin-top: 0px;
+     margin-left: 200px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+     top: -40px
+ }
+ 
+ h1.title {
+     color: yellow;
+ }
+ 
+ .circle2 {
+     background-color: brown;
+     padding: 50px;
+     margin-top: 50px;
+     margin-left: 150px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+ }
+ 
+ .circle3 {
+     color: brown;
+     background-color: #ffffff;
+     padding: 50px;
+     margin-top: -500px;
+     margin-left: 400px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 500px;
+     height: 500px;
+ }
+ 
+ .circle4 {
+     background-color: #ffffff;
+     padding: 50px;
+     margin-top: -650px;
+     margin-left: 750px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+ }
+ 
+ .circle5 {
+     background-color: brown;
+     padding: 50px;
+     margin-top: 50px;
+     margin-left: 1100px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 100px;
+     height: 100px;
+ }
+ 
+ .circle6 {
+     background-color: red;
+     padding: 50px;
+     margin-top: 150px;
+     margin-left: 450px;
+     box-sizing: content box;
+     position: relative;
+     border-radius: 50%;
+     width: 100px;
+     height: 100px;
+ }
