@@ -55,7 +55,7 @@ div h4 {
 
 .good {
     height: 500px;
-    width: 400px;
+    width: 600px;
     text-align: center;
     /*display: inline-block;*/
     /*box-sizing: conent-box;*/
@@ -68,7 +68,7 @@ div h4 {
 
 .bad {
     height: 500px;
-    width: 400px;
+    width: 600px;
     text-align: center;
     /*display: inline-block;*/
     /*box-sizing: conent-box;*/
@@ -88,8 +88,8 @@ div h4 {
     /*position: absolute;*/
     background-color: #F0D340;
     /*float: right;*/
-    margin-right: 610px;
-    margin-left: 610px;
+    margin-right: 710px;
+    margin-left: 710px;
 }
 
 h2 {
