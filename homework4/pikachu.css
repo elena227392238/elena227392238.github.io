@@ -1,5 +1,5 @@
  .wrap {
-     width: 1000px;
+     width: 100%;
      margin: 0px auto;
      padding: 0px;
      position: relative;
@@ -73,15 +73,15 @@
  
  .circle5 {
      background-color: #9c5200;
-     padding: 50px;
-     margin-top: 550px;
+     padding-top: 40px;
+     margin-top: 600px;
      margin-left: 1100px;
      text-align: center;
-     box-sizing: border box;
+     box-sizing: border-box;
      position: fixed;
      border-radius: 50%;
-     width: 70px;
-     height: 70px;
+     width: 150px;
+     height: 150px;
  }
  
  .circle6 {
